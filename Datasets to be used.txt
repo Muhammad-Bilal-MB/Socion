@@ -1,0 +1,21 @@
+Dataset 1 (En):  To be used upon your approval
+
+Ravdess: 03-01-(01,03,04,05)-XXXXXX   (672 Samples, 24 Actors - 12M - 12F)
+Crema can also be used		      (4960 Samples Approx)
+SAvee can also be used		      (250 Samples Approx, Mixed multiple speakers)
+Tess can also be used		      (1600 Samples, 2 Speakers, 1M - 1F)
+
+https://www.kaggle.com/dmitrybabko/speech-emotion-recognition-en
+
+
+
+Dataset 2 (En):  To be used upon your approval
+
+https://dataverse.scholarsportal.info/dataset.xhtml?  persistentId=doi:10.5683/SP2/E8H2MF     (1600 Samples, 2 Actors, Young and Old (27y and 64y)
+
+
+
+Dataset 3 (Ur):  Already used
+
+https://github.com/siddiquelatif/urdu-dataset     (400 Samples, 100 each Class)
+						  (Numerous Speakers)
